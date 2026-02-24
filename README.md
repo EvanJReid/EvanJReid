@@ -1,6 +1,6 @@
 
 <h1 align="center">Evan Reid</h1>
-<h3 align="center">Electrical &amp; Computer Engineering &nbsp;|&nbsp; Northeastern University</h3>
+<h3 align="center">Computer Engineering &amp; Computer Science + Finance &nbsp;|&nbsp; Northeastern University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3500&amp;pause=1200&amp;color=A8C8E8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Engineering+student+focused+on+quantitative+analysis;Building+institutional-grade+financial+tools;Hardware+systems+%2B+software+engineering+%2B+finance;Northeastern+University+%7C+Boston%2C+MA" alt="Typing Animation" />
