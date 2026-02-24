@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0F1E,50:0D2137,100:1B3A4B&amp;height=200&amp;section=header&amp;text=Evan%20Reid&amp;fontSize=62&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Electrical%20%26%20Computer%20Engineering%20%7C%20Northeastern%20University&amp;descAlignY=55&amp;descSize=16&amp;descColor=A8C8E8" />
-</p>
+
+<h1 align="center">Evan Reid</h1>
+<h3 align="center">Electrical &amp; Computer Engineering &nbsp;|&nbsp; Northeastern University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3500&amp;pause=1200&amp;color=A8C8E8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Engineering+student+focused+on+quantitative+analysis;Building+institutional-grade+financial+tools;Hardware+systems+%2B+software+engineering+%2B+finance;Northeastern+University+%7C+Boston%2C+MA" alt="Typing Animation" />
@@ -158,9 +158,5 @@ Status         : Open to co-op — Software Engineering, Fintech, Investment Tec
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1B3A4B,50:0D2137,100:0A0F1E&amp;height=120&amp;section=footer" />
-</p>
-
-<p align="center">
-  <sub>Northeastern University &nbsp;•&nbsp; Boston, MA &nbsp;•&nbsp; Expected Graduation 2028</sub>
+  <sub>Northeastern University &nbsp;|&nbsp; Boston, MA &nbsp;|&nbsp; Expected Graduation 2028</sub>
 </p>
