@@ -50,7 +50,7 @@ Status         : Open to co-op — Software Engineering, Fintech, Investment Tec
 
 ## Featured Project
 
-### [SaaS and Tech-Enabled Services Valuation Model](https://github.com/EvanJReid/SaaS-Valuation-Tool)
+### [SaaS and Tech-Enabled Services Valuation Model](https://github.com/EvanJReid/SaaS-Valuation-Model)]
 
 > An institutional-grade, browser-based valuation tool built to replicate the analytical rigor of private equity and M&A diligence processes. All multiples and benchmarks are sourced from primary transaction data — not estimates.
 
